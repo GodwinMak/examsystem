@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/data.js
+
+yarn-debug.log*
+yarn-error.log*
+
+/combined.json
+/animalData.js
+
+
+# environment
+/.env
+/.env.production
